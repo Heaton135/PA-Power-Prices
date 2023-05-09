@@ -1,5 +1,22 @@
 # PA-Power-Prices
 
+The RS-Scraper.py program downloads provider offers from the nine default power distributors in Pennsylvania
+
+The nine default providers are listed below, along with the associated zipcode we are retreiving for each:
+
+1. Duquesne Light : 15106, 
+2. Met-Ed : 17325, 
+3. PECO : 19109, 
+4. Penelec : 16619, 
+5. PennPower : 15086, 
+6. PPL : 18015,
+7. Pike-County-LP : 18324, 
+8. UGI : 18622, 
+9. WestPenn : 15020
+
+
+## Instructions:
+Navigate to this directory and run ```python3 RS-Scraper.py``` in terminal
 
 ## About:
 3 functions are included in this program:
